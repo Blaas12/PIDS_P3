@@ -2,8 +2,7 @@
 Trabajo realizado por Juan Diego González, Rafael Martínez, Sergio Melones, Jesús Rincón y Alejandro Blas Sicilia.
 
 Pasos para la ejecución del proyecto:
-1. Descarga del archivo P3_PIDS.zip y descompresión del mismo. El fichero se encuentra en el siguiente enlace de Github:
-   ""
+1. Descarga del archivo P3_PIDS.zip y descompresión del mismo.
 2. Abra una terminal de Linux/Ubuntu y acceda al directorio donde el archivo se ha descomprimido.
 3. Ejecución de los siguientes comandos:
    
