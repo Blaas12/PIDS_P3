@@ -31,8 +31,8 @@ Pasos para la ejecución del proyecto:
    
    `docker compose up --build -d`
    
-5. Una vez finalizado el comando anterior, espere unos minutos hasta que se realice la correspondiente carga de los datos.
+4. Una vez finalizado el comando anterior, espere unos minutos hasta que se realice la correspondiente carga de los datos.
    
-6. Acceda a la siguiente URL donde encontrarás nuestra aplicación desplegada: `http://localhost:5001/data`
+5. Acceda a la siguiente URL donde encontrarás nuestra aplicación desplegada: `http://localhost:5001/data`
 
 Pd: Al acceder a la sección asociada a "Lote inicial" tenga paciencia ya que al haber muchos datos podría ir más lenta que el resto.
